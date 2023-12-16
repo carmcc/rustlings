@@ -2496,6 +2496,60 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "0atman",
+      "name": "Tristram Oaten",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114097?v=4",
+      "profile": "http://0atman.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "danieltinazzi",
+      "name": "Daniel Tinazzi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11833533?v=4",
+      "profile": "https://github.com/danieltinazzi",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "raymon-roos",
+      "name": "Raymon Roos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38888470?v=4",
+      "profile": "https://github.com/raymon-roos",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "matthri",
+      "name": "Matthias",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67913999?v=4",
+      "profile": "https://github.com/matthri",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "neuschaefer",
+      "name": "J. Neuschäfer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1021512?v=4",
+      "profile": "https://github.com/neuschaefer",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bastianpedersen",
+      "name": "Bastian Pedersen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58905488?v=4",
+      "profile": "https://scooterhacking.org",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 8,
